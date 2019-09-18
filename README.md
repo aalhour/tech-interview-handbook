@@ -1,30 +1,32 @@
 <h1 align="center">Tech Interview Handbook</h1>
 
 <div align="center">
-  <a href="https://dribbble.com/shots/3831443-Tech-Interview-Handbook">
-    <img src="https://cdn.rawgit.com/yangshun/tech-interview-handbook/master/assets/book.svg" alt="Tech Interview Handbook" width="400"/>
-    </a>
+  <a href="https://yangshun.github.io/tech-interview-handbook/">
+    <img src="website/static/img/logo.svg" alt="Tech Interview Handbook" width="400">
+  </a>
   <br>
   <p>
-    <em>Credits: <a href="https://dribbble.com/shots/3831443-Tech-Interview-Handbook">Illustration</a> by <a href="https://dribbble.com/yangheng">@yangheng</a>
-    </em>
+    <em>Credits: <a href="https://dribbble.com/shots/3831443-Tech-Interview-Handbook">Illustration</a> by <a href="https://dribbble.com/yangheng">@yangheng</a></em>
   </p>
+  <h3>
+    <a href="https://yangshun.github.io/tech-interview-handbook/">Read on the website</a>
+  </h3>
 </div>
 
 ## What is this?
 
 Carefully curated content to help you ace your next technical interview, with a focus on algorithms. System design questions are in-progress. Besides the usual algorithm questions, other **awesome** stuff includes:
 
-* [How to prepare](preparing) for coding interviews
-* [Interview Cheatsheet](preparing/cheatsheet.md) - Straight-to-the-point Do's and Don'ts 🆕
-* [Algorithm tips and the best practice questions](algorithms) categorized by topic
-* ["Front-end Job Interview Questions" answers](https://github.com/yangshun/front-end-interview-handbook)
-* [Interview formats](non-technical/interview-formats.md) of the top tech companies
-* [Behavioral questions](non-technical/behavioral.md) categorized by companies
-* [Good questions to ask your interviewers](non-technical/questions-to-ask.md) at the end of the interviews
-* [Helpful resume tips](non-technical/resume.md) to get your resume noticed and the Do's and Don'ts
+- [How to prepare](https://yangshun.github.io/tech-interview-handbook/coding-round-overview) for coding interviews
+- [Interview Cheatsheet](https://yangshun.github.io/tech-interview-handbook/cheatsheet) - Straight-to-the-point Do's and Don'ts
+- [Algorithm tips and the best practice questions](https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction) categorized by topic
+- ["Front-end Job Interview Questions" answers](https://github.com/yangshun/front-end-interview-handbook)
+- [Interview formats](https://yangshun.github.io/tech-interview-handbook/interview-formats) of the top tech companies
+- [Behavioral questions](https://yangshun.github.io/tech-interview-handbook/behavioral-questions) asked by the top tech companies
+- [Good questions to ask your interviewers](https://yangshun.github.io/tech-interview-handbook/questions-to-ask) at the end of the interviews
+- [Helpful resume tips](https://yangshun.github.io/tech-interview-handbook/resume) to get your resume noticed and the Do's and Don'ts
 
-This handbook is pretty new and help from you in contributing content would be very much appreciated!
+Help from you in contributing content would be very much appreciated!
 
 ## Why do I want this?
 
@@ -34,9 +36,17 @@ This repository has _practical_ content that covers all phases of a technical in
 
 Anybody who wants to land a job at a tech company but is new to technical interviews, seasoned engineers who have not been on the other side of the interviewing table in a while and want to get back into the game, or anyone who wants to be better at technical interviewing.
 
+---
+
+<div align="center">
+  <strong>💰 Looking for a job? Sign up for free with <a href="https://triplebyte.com/a/PJaJNpO/tihg">Triplebyte</a> to efficiently interview with top tech companies! 💰</strong>
+</div>
+
+---
+
 ## How is this repository different?
 
-There are so many awesome books like [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) and interview-related repositories out there on GitHub, what makes this repository different? The difference is that many existing interview repositories contain mainly links to external resources whereas this repository contains top quality curated content directly for your consumption.
+There are many awesome books like [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) and interview-related repositories out there on GitHub, what makes this repository different? The difference is that many existing interview repositories contain mainly links to external resources whereas this repository contains top quality curated content directly for your consumption.
 
 Also, existing resources focus mainly on algorithm questions and lack coverage for more domain-specific and non-technical questions. This handbook aims to cover content beyond the typical algorithmic coding questions. 😎
 
@@ -46,20 +56,7 @@ Front end-related content have been extracted out into a separate repository - [
 
 ## Contents
 
-* **[Preparing for a Coding Interview](preparing)**
-  * [Interview cheatsheet](preparing/cheatsheet.md) - Straight-to-the-point Do's and Don'ts
-* **[Algorithm Questions](algorithms)** - Questions categorized by topics
-* **[Design Questions](design)**
-* **[Front-end Job Interview Questions and Answers](https://github.com/yangshun/front-end-interview-handbook) 🔥⭐** - Answers to the famous "Front-end Job Interview Questions"
-* **[Non-Technical Tips](non-technical)** - Random non-technical tips that cover behavioral and psychological aspects, interview formats and "Do you have any questions for me?"
-  * [Resume Tips](non-technical/resume.md)
-  * [Behavioral Questions](non-technical/behavioral.md)
-  * [Interview Formats](non-technical/interview-formats.md)
-  * [Psychological Tricks](non-technical/psychological-tricks.md)
-  * [Questions to Ask](non-technical/questions-to-ask.md)
-  * [Negotiation Tips](non-technical/negotiation.md)
-* **[Utilities](utilities)** - Snippets of algorithms/code that will help in coding questions
-  * **UPDATE** - Check out [Lago](https://github.com/yangshun/lago), which is a Data Structures and Algorithms library that contains more high-quality implementations with 100% test coverage.
+A [Docusaurus](https://github.com/facebook/docusaurus) website has been created to provide a better reading experience. Check out the website [here](https://yangshun.github.io/tech-interview-handbook/)!
 
 ## Related
 
@@ -71,8 +68,7 @@ There are no formal contributing guidelines at the moment as things are still in
 
 ### Contributors
 
-This project exists thanks to all the people who contributed. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/yangshun/tech-interview-handbook/graphs/contributors"><img src="https://opencollective.com/tech-interview-handbook/contributors.svg?width=890&button=false" /></a>
+This project exists thanks to all the people who contributed. [[Contribute](CONTRIBUTING.md)]. <a href="https://github.com/yangshun/tech-interview-handbook/graphs/contributors"><img src="https://opencollective.com/tech-interview-handbook/contributors.svg?width=890&button=false"></a>
 
 ### Backers
 
@@ -80,24 +76,15 @@ Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com
 
 <a href="https://opencollective.com/tech-interview-handbook#backers" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/backers.svg?width=890"></a>
 
-<a href="https://www.buymeacoffee.com/yangshun" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://www.buymeacoffee.com/yangshun" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important; width: auto !important;"></a>
 
 ### Sponsors
 
 Support this project by becoming a sponsor. Your logo/profile picture will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/tech-interview-handbook#sponsor)]
 
-<a href="https://opencollective.com/tech-interview-handbook/sponsor/0/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/tech-interview-handbook/sponsor/1/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/tech-interview-handbook/sponsor/2/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/tech-interview-handbook/sponsor/3/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/tech-interview-handbook/sponsor/4/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/tech-interview-handbook/sponsor/5/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/tech-interview-handbook/sponsor/6/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/tech-interview-handbook/sponsor/7/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/tech-interview-handbook/sponsor/8/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/tech-interview-handbook/sponsor/9/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/9/avatar.svg"></a>
+<a href="https://opencollective.com/tech-interview-handbook/sponsor/0/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/0/avatar.svg"></a> <a href="https://opencollective.com/tech-interview-handbook/sponsor/1/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/1/avatar.svg"></a> <a href="https://opencollective.com/tech-interview-handbook/sponsor/2/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/2/avatar.svg"></a> <a href="https://opencollective.com/tech-interview-handbook/sponsor/3/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/3/avatar.svg"></a> <a href="https://opencollective.com/tech-interview-handbook/sponsor/4/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/4/avatar.svg"></a> <a href="https://opencollective.com/tech-interview-handbook/sponsor/5/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/5/avatar.svg"></a> <a href="https://opencollective.com/tech-interview-handbook/sponsor/6/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/6/avatar.svg"></a> <a href="https://opencollective.com/tech-interview-handbook/sponsor/7/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/7/avatar.svg"></a> <a href="https://opencollective.com/tech-interview-handbook/sponsor/8/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/8/avatar.svg"></a> <a href="https://opencollective.com/tech-interview-handbook/sponsor/9/website" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/sponsor/9/avatar.svg"></a>
 
 ## Maintainers
 
-* [Yangshun Tay](https://github.com/yangshun)
-* [Louie Tan](https://github.com/louietyj)
+- [Yangshun Tay](https://github.com/yangshun)
+- [Louie Tan](https://github.com/louietyj)

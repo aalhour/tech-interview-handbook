@@ -1,0 +1,38 @@
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.heroBannerLogo {
+  max-width: 300px;
+}
+
+@media screen and (max-width: 966px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sectionAlt {
+  background-color: var(--ifm-color-emphasis-alpha-05);
+}
+
+.sectionDark {
+  background-color: var(--ifm-color-primary);
+}
+
+.sectionDarkTitle {
+  color: var(--ifm-color-white);
+}
+
+.sectionDarkLink {
+  color: var(--ifm-color-black-alpha-80);
+}
